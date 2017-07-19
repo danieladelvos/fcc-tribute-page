@@ -7,5 +7,6 @@ body {
 }
 
 .img-background {
+  padding-top: 20px;
   background-color: #f0f8ff;
 }
