@@ -22,3 +22,20 @@ body {
 .text-medium {
   font-size: 20px;
 }
+
+.blockquote-footer {
+  color: #dddddd;
+}
+
+.above-margin {
+  margin-top: 20px;
+}
+
+.link-color {
+  color: #c2b8b6;
+}
+
+.link-color:hover,
+.link-color:focus {
+  color: #b1a7a5;
+}
